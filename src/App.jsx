@@ -87,14 +87,7 @@ function App() {
     };
 
     cotizarCriptos();
-      
-      
-      
-      /*setResultado(resultado.DISPLAY[criptomoneda][moneda])
-      setCargando(false)
-  }
-
-  cotizarCriptos();*/
+    
 
     }
 
